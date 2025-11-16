@@ -1,0 +1,6 @@
+telethon
+apscheduler
+pandas
+openpyxl
+pytz
+python-dotenv
